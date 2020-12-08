@@ -1,0 +1,313 @@
+state,Attribute,Value
+United States,reading,501
+United States,math,515
+United States,writing,493
+United States,percent_graduates_sat,46
+United States,pupil_staff_ratio,7.9
+United States,dropout_rate,4.4
+Alabama,reading,557
+Alabama,math,552
+Alabama,writing,549
+Alabama,percent_graduates_sat,7
+Alabama,pupil_staff_ratio,6.7
+Alabama,dropout_rate,2.3
+Alaska,reading,520
+Alaska,math,516
+Alaska,writing,492
+Alaska,percent_graduates_sat,46
+Alaska,pupil_staff_ratio,7.9
+Alaska,dropout_rate,7.3
+Arizona,reading,516
+Arizona,math,521
+Arizona,writing,497
+Arizona,percent_graduates_sat,26
+Arizona,pupil_staff_ratio,10.4
+Arizona,dropout_rate,7.6
+Arkansas,reading,572
+Arkansas,math,572
+Arkansas,writing,556
+Arkansas,percent_graduates_sat,5
+Arkansas,pupil_staff_ratio,6.8
+Arkansas,dropout_rate,4.6
+California,reading,500
+California,math,513
+California,writing,498
+California,percent_graduates_sat,49
+California,pupil_staff_ratio,10.9
+California,dropout_rate,5.5
+Colorado,reading,568
+Colorado,math,575
+Colorado,writing,555
+Colorado,percent_graduates_sat,20
+Colorado,pupil_staff_ratio,8.1
+Colorado,dropout_rate,6.9
+Connecticut,reading,509
+Connecticut,math,513
+Connecticut,writing,512
+Connecticut,percent_graduates_sat,83
+Connecticut,pupil_staff_ratio,6.6
+Connecticut,dropout_rate,2.1
+Delaware,reading,495
+Delaware,math,498
+Delaware,writing,484
+Delaware,percent_graduates_sat,71
+Delaware,pupil_staff_ratio,7.9
+Delaware,dropout_rate,5.5
+District of Columbia,reading,466
+District of Columbia,math,451
+District of Columbia,writing,461
+District of Columbia,percent_graduates_sat,79
+District of Columbia,pupil_staff_ratio,6.3
+District of Columbia,dropout_rate,7.1
+Florida,reading,497
+Florida,math,498
+Florida,writing,480
+Florida,percent_graduates_sat,59
+Florida,pupil_staff_ratio,8.1
+Florida,dropout_rate,3.8
+Georgia,reading,490
+Georgia,math,491
+Georgia,writing,479
+Georgia,percent_graduates_sat,71
+Georgia,pupil_staff_ratio,7
+Georgia,dropout_rate,4.6
+Hawaii,reading,479
+Hawaii,math,502
+Hawaii,writing,469
+Hawaii,percent_graduates_sat,58
+Hawaii,pupil_staff_ratio,8.3
+Hawaii,dropout_rate,5.4
+Idaho,reading,541
+Idaho,math,540
+Idaho,writing,520
+Idaho,percent_graduates_sat,18
+Idaho,pupil_staff_ratio,10
+Idaho,dropout_rate,2.6
+Illinois,reading,588
+Illinois,math,604
+Illinois,writing,583
+Illinois,percent_graduates_sat,6
+Illinois,pupil_staff_ratio,9.9
+Illinois,dropout_rate,4
+Indiana,reading,496
+Indiana,math,507
+Indiana,writing,480
+Indiana,percent_graduates_sat,63
+Indiana,pupil_staff_ratio,7.5
+Indiana,dropout_rate,2.7
+Iowa,reading,610
+Iowa,math,615
+Iowa,writing,588
+Iowa,percent_graduates_sat,3
+Iowa,pupil_staff_ratio,6.8
+Iowa,dropout_rate,2.3
+Kansas,reading,581
+Kansas,math,589
+Kansas,writing,564
+Kansas,percent_graduates_sat,7
+Kansas,pupil_staff_ratio,8.6
+Kansas,dropout_rate,2.7
+Kentucky,reading,573
+Kentucky,math,573
+Kentucky,writing,561
+Kentucky,percent_graduates_sat,7
+Kentucky,pupil_staff_ratio,6.6
+Kentucky,dropout_rate,3
+Louisiana,reading,563
+Louisiana,math,558
+Louisiana,writing,555
+Louisiana,percent_graduates_sat,7
+Louisiana,pupil_staff_ratio,6.8
+Louisiana,dropout_rate,7.4
+Maine,reading,468
+Maine,math,467
+Maine,writing,455
+Maine,percent_graduates_sat,90
+Maine,pupil_staff_ratio,4.9
+Maine,dropout_rate,5.3
+Maryland,reading,500
+Maryland,math,502
+Maryland,writing,495
+Maryland,percent_graduates_sat,69
+Maryland,pupil_staff_ratio,7.2
+Maryland,dropout_rate,3.8
+Massachusetts,reading,514
+Massachusetts,math,526
+Massachusetts,writing,510
+Massachusetts,percent_graduates_sat,84
+Massachusetts,pupil_staff_ratio,7.8
+Massachusetts,dropout_rate,3.8
+Michigan,reading,584
+Michigan,math,603
+Michigan,writing,575
+Michigan,percent_graduates_sat,5
+Michigan,pupil_staff_ratio,8.1
+Michigan,dropout_rate,7.4
+Minnesota,reading,595
+Minnesota,math,609
+Minnesota,writing,578
+Minnesota,percent_graduates_sat,7
+Minnesota,pupil_staff_ratio,7.7
+Minnesota,dropout_rate,3
+Mississippi,reading,567
+Mississippi,math,554
+Mississippi,writing,559
+Mississippi,percent_graduates_sat,4
+Mississippi,pupil_staff_ratio,6.9
+Mississippi,dropout_rate,4.3
+Missouri,reading,595
+Missouri,math,600
+Missouri,writing,584
+Missouri,percent_graduates_sat,5
+Missouri,pupil_staff_ratio,6.9
+Missouri,dropout_rate,3.7
+Montana,reading,541
+Montana,math,542
+Montana,writing,519
+Montana,percent_graduates_sat,22
+Montana,pupil_staff_ratio,7.4
+Montana,dropout_rate,3.7
+Nebraska,reading,587
+Nebraska,math,594
+Nebraska,writing,572
+Nebraska,percent_graduates_sat,4
+Nebraska,pupil_staff_ratio,6.7
+Nebraska,dropout_rate,2.8
+Nevada,reading,501
+Nevada,math,505
+Nevada,writing,479
+Nevada,percent_graduates_sat,42
+Nevada,pupil_staff_ratio,12.1
+Nevada,dropout_rate,4.5
+New Hampshire,reading,523
+New Hampshire,math,523
+New Hampshire,writing,510
+New Hampshire,percent_graduates_sat,75
+New Hampshire,pupil_staff_ratio,6.2
+New Hampshire,dropout_rate,3.2
+New Jersey,reading,496
+New Jersey,math,513
+New Jersey,writing,496
+New Jersey,percent_graduates_sat,76
+New Jersey,pupil_staff_ratio,6.9
+New Jersey,dropout_rate,2
+New Mexico,reading,553
+New Mexico,math,546
+New Mexico,writing,534
+New Mexico,percent_graduates_sat,11
+New Mexico,pupil_staff_ratio,7
+New Mexico,dropout_rate,6.1
+New York,reading,485
+New York,math,502
+New York,writing,478
+New York,percent_graduates_sat,85
+New York,pupil_staff_ratio,7.4
+New York,dropout_rate,5.3
+North Carolina,reading,495
+North Carolina,math,511
+North Carolina,writing,480
+North Carolina,percent_graduates_sat,63
+North Carolina,pupil_staff_ratio,7.3
+North Carolina,dropout_rate,5.7
+North Dakota,reading,590
+North Dakota,math,593
+North Dakota,writing,566
+North Dakota,percent_graduates_sat,3
+North Dakota,pupil_staff_ratio,6.2
+North Dakota,dropout_rate,2.3
+Ohio,reading,537
+Ohio,math,546
+Ohio,writing,523
+Ohio,percent_graduates_sat,22
+Ohio,pupil_staff_ratio,7.5
+Ohio,dropout_rate,4.5
+Oklahoma,reading,575
+Oklahoma,math,571
+Oklahoma,writing,557
+Oklahoma,percent_graduates_sat,5
+Oklahoma,pupil_staff_ratio,7.4
+Oklahoma,dropout_rate,3.5
+Oregon,reading,523
+Oregon,math,525
+Oregon,writing,499
+Oregon,percent_graduates_sat,52
+Oregon,pupil_staff_ratio,8.8
+Oregon,dropout_rate,4.6
+Pennsylvania,reading,493
+Pennsylvania,math,501
+Pennsylvania,writing,483
+Pennsylvania,percent_graduates_sat,71
+Pennsylvania,pupil_staff_ratio,7.1
+Pennsylvania,dropout_rate,-1
+Rhode Island,reading,498
+Rhode Island,math,496
+Rhode Island,writing,494
+Rhode Island,percent_graduates_sat,66
+Rhode Island,pupil_staff_ratio,8.4
+Rhode Island,dropout_rate,5.8
+South Carolina,reading,486
+South Carolina,math,496
+South Carolina,writing,470
+South Carolina,percent_graduates_sat,67
+South Carolina,pupil_staff_ratio,10.8
+South Carolina,dropout_rate,3.9
+South Dakota,reading,589
+South Dakota,math,600
+South Dakota,writing,569
+South Dakota,percent_graduates_sat,3
+South Dakota,pupil_staff_ratio,7.1
+South Dakota,dropout_rate,3.9
+Tennessee,reading,571
+Tennessee,math,565
+Tennessee,writing,565
+Tennessee,percent_graduates_sat,10
+Tennessee,pupil_staff_ratio,7.6
+Tennessee,dropout_rate,3.1
+Texas,reading,486
+Texas,math,506
+Texas,writing,475
+Texas,percent_graduates_sat,51
+Texas,pupil_staff_ratio,7.4
+Texas,dropout_rate,4
+Utah,reading,559
+Utah,math,558
+Utah,writing,540
+Utah,percent_graduates_sat,6
+Utah,pupil_staff_ratio,11.9
+Utah,dropout_rate,3.1
+Vermont,reading,518
+Vermont,math,518
+Vermont,writing,506
+Vermont,percent_graduates_sat,64
+Vermont,pupil_staff_ratio,4.9
+Vermont,dropout_rate,-1
+Virginia,reading,511
+Virginia,math,512
+Virginia,writing,498
+Virginia,percent_graduates_sat,68
+Virginia,pupil_staff_ratio,6
+Virginia,dropout_rate,2.6
+Washington,reading,524
+Washington,math,531
+Washington,writing,507
+Washington,percent_graduates_sat,53
+Washington,pupil_staff_ratio,9.9
+Washington,dropout_rate,5.1
+West Virginia,reading,511
+West Virginia,math,501
+West Virginia,writing,499
+West Virginia,percent_graduates_sat,18
+West Virginia,pupil_staff_ratio,7.4
+West Virginia,dropout_rate,4
+Wisconsin,reading,594
+Wisconsin,math,608
+Wisconsin,writing,582
+Wisconsin,percent_graduates_sat,5
+Wisconsin,pupil_staff_ratio,8.3
+Wisconsin,dropout_rate,2.2
+Wyoming,reading,567
+Wyoming,math,568
+Wyoming,writing,550
+Wyoming,percent_graduates_sat,5
+Wyoming,pupil_staff_ratio,5.6
+Wyoming,dropout_rate,5.1
