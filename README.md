@@ -1,4 +1,4 @@
-# DSC640
+# Data Viz
 
 This project was (mostly) about visualizations. The notebook contains some of the standard stuff regarding reading, cleaning, and transforming data. But the result of the project
 was building a dashboard and an infographic. 
